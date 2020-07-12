@@ -1,0 +1,19 @@
+name: LobbySystem-Hyroxing
+main: iTzFreeHD\LB\LobbySystem
+author: iTzFreeHD-Hyroxing-Dev
+api:
+- 3.0.0
+- 4.0.0
+version: 2.2.4-BETA
+commands:
+  build:
+    description: Build mode
+    default: op
+  spawn:
+    description: Teleports to Spwan
+  staff:
+      description: Only Staff
+  lbmain:
+        description: get Main Items
+  fly:
+        description: Flymode lobby.fly
